@@ -84,8 +84,9 @@ header {
 }
 
 .right img {
-    height: 500px;
-    margin-top: 10px;
+    height: 340px;
+    margin-top: 68px;
+    margin-bottom: 20px;
 }
 
 
@@ -319,4 +320,5 @@ footer {
 
 
 /* footer */
+
 
