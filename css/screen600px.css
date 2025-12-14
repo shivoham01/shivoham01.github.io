@@ -58,6 +58,10 @@
     font-size: 16px;
 }
 
+.icon-cont{
+    display: block;
+}
+
 /* Projects */
 #projects {
     max-width: 100%;
@@ -84,4 +88,5 @@ form textarea {
 }
 
 /* Contacts */
+
 
